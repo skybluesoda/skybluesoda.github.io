@@ -22,14 +22,6 @@ title: skybluesoda's Blog
 email: jijiunji@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Like an echo in the forest
-하루가 돌아오겠지
-아무 일도 없단 듯이
-Yeah life goes on
-Like an arrow in the blue sky
-또 하루 더 날아가지
-On my pillow, on my table
-Yeah life goes on
-Like this again
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
