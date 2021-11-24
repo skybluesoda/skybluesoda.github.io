@@ -27,6 +27,10 @@ sass:
 
 # Comments
 disqus_shortname:   taylantatli
+comment:
+  provider:         "disqus"
+  disqus:
+    shortname:      "skybluesoda-blog"
 
 # Social
 # if you don't have any of social below, comment the line.
