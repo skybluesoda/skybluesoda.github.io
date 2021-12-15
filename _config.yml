@@ -42,19 +42,19 @@ comment:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            
-facebook:           
-github-url:         
+twitter:            username
+facebook:           username
+github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          
+instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              
+steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
