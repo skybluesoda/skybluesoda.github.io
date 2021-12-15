@@ -1,30 +1,13 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# Eureka Project
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
-
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+## Building
+* GitHub에 github.io 형태의 repository를 생성
+* Laptop에 Git을 설치, VSCode 또한 설치하여 연동했음.
+* 이 repository와 local 저장소를 연결
+* 간단한 html 작성 후 확인
+* Ruby와 Jekyll 설치
+* 예시 Test Post 작성(기본 theme)
+* "MOON" theme 적용
+* 기본 템플릿 dummy 정보를 변경
+* Disqus 가입 후 댓글 기능을 추가함(html이 처음이라 힘들었던 과정)
+* post 작성
